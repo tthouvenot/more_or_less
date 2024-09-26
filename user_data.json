@@ -1,0 +1,12 @@
+{
+    "users": [
+        {
+            "user_name": "John",
+            "total_points": 1200
+        },
+        {
+            "user_name": "Alice",
+            "total_points": 1500
+        }
+    ]
+}
