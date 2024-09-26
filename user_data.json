@@ -1,12 +1,24 @@
 {
     "users": [
         {
-            "user_name": "John",
-            "total_points": 1200
+            "user_name": "toto",
+            "total_points": 79,
+            "best_score": 79,
+            "best_tries": 6,
+            "total_win": 1,
+            "total_lose": 0,
+            "win_streak": 1,
+            "lose_streak": 0
         },
         {
-            "user_name": "Alice",
-            "total_points": 1500
+            "user_name": "tristan",
+            "total_points": 170,
+            "best_score": 91,
+            "best_tries": 4,
+            "total_win": 2,
+            "total_lose": 1,
+            "win_streak": 0,
+            "lose_streak": 1
         }
     ]
 }
